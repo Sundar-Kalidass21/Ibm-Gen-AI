@@ -1,5 +1,5 @@
 import os
-
+#basic llm
 WATSONX_URL = "https://us-south.ml.cloud.ibm.com"
 PROJECT_ID = os.getenv("WATSONX_PROJECT_ID", "YOUR_PROJECT_ID")
 API_KEY = os.getenv("WATSONX_API_KEY", "YOUR_API_KEY")
